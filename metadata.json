@@ -1,0 +1,8 @@
+{
+  "name": "ExamReady A1",
+  "description": "Mobile-first German A1 readiness check for Goethe and ÖSD learners with 15 weighted questions, server-side grading, practice priorities, and answer review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
